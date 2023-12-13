@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BankAccount.App\BankAccount.App.csproj" />
+    <ProjectReference Include="..\Bank.App\Bank.App.csproj" />
   </ItemGroup>
 
 </Project>
